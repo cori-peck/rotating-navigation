@@ -60,6 +60,9 @@ body {
     left: 60%;
 }
 
+.container.show-nav .circle {
+    transform: rotate(-70deg);
+}
 .circle button#close {
     top: 60%;
     transform: rotate(90deg);
